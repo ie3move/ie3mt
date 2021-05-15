@@ -33,7 +33,7 @@ sections:
     subtitle: If you wish to join us, please fill out this contact form.
     actions:
       - label: Contact
-        url: /fixme
+        url: /contact
         style: primary
 seo:
   title: IEEE MOVE Teams
